@@ -1,0 +1,16 @@
+EmployeeID,Name,Age,Gender,Department,Salary,Experience,City
+101,Ram,25.0,Male,IT,45000.0,2.0,Hyderabad
+102,Sita,28.0,Female,HR,50000.0,4.0,Bangalore
+103,Ravi,30.0,Male,Finance,55000.0,5.0,Chennai
+104,Priya,27.0,Female,IT,50230.769230769234,3.0,Hyderabad
+105,Kiran,27.785714285714285,Male,Marketing,42000.0,2.0,Vijayawada
+106,Anitha,29.0,Female,HR,51000.0,4.0,Bangalore
+107,Ram,25.0,Male,IT,45000.0,2.0,Hyderabad
+108,Vikram,31.0,Male,Finance,60000.0,6.0,Chennai
+109,Divya,26.0,Female,Marketing,47000.0,3.642857142857143,Vizag
+110,Rahul,32.0,Male,IT,62000.0,7.0,Hyderabad
+111,Sneha,24.0,Female,HR,43000.0,1.0,Bangalore
+112,Ajay,29.0,Male,Finance,50230.769230769234,4.0,Chennai
+113,Meena,27.0,Female,Marketing,46000.0,3.0,Vizag
+114,Karthik,30.0,Male,IT,58000.0,5.0,Bangalore
+115,Lakshmi,26.0,Female,HR,49000.0,3.0,Bangalore

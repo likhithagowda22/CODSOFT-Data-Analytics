@@ -1,0 +1,11 @@
+CustomerID,Name,Age,City,Product,Amount
+1,Ram,25,Hyderabad,Laptop,55000
+2,Sita,30,Bangalore,Mobile,25000
+3,Ravi,28,Chennai,Headphones,3000
+4,Priya,35,Hyderabad,Laptop,60000
+5,Kiran,22,Vizag,Tablet,18000
+6,Anitha,29,Bangalore,Mobile,27000
+7,Vikram,40,Chennai,Laptop,70000
+8,Divya,26,Hyderabad,Tablet,20000
+9,Rahul,31,Vizag,Mobile,26000
+10,Sneha,24,Bangalore,Headphones,4000
